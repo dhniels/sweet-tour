@@ -1,6 +1,8 @@
 # Redirect domain aliases to primary domain
 https://sweettour.org/* https://thesweettour.com/:splat 301!
 https://parowancinnamonrolls.com/* https://thesweettour.com/:splat 301!
+https://www.sweettour.org/* https://thesweettour.com/:splat 301!
+https://www.parowancinnamonrolls.com/* https://thesweettour.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://friendly-stallman-4dd3b9.netlify.com/* https://thesweettour.com/:splat 301!
