@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Sweet Tour Map
 tags:
   - nav
-navtitle: Map
+navtitle: Tour Map
 templateClass: tmpl-post
 ---
 
